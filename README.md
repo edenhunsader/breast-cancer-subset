@@ -8,3 +8,14 @@ The potential uses for this data include:
 - Viewable trend of cancer related clinical data within a uniform demographic
 - Establishing general clinical trends
 - Visualization of clinical results 
+
+## Getting Started
+
+This respository contains a total of four files - the README file, a Colab file(a procedure to create data subset), the original breast cancer data, and the subset that contains only the data's clinical information. 
+The subset and original data has been included in the format of a .csv file
+
+*To interact with this repository and use subset data:*
+
+1. Open the included link
+2. Press the "..." in the top right corner
+3. Click "down load"
