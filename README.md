@@ -23,11 +23,11 @@ The subset and original data has been included in the format of a .csv file
 This repository is public and can be accessed and edited by the all. However, all changes and contributions must be approved by the creator, Eden Hunsader.
 
 ## Support
-Attached below is a helpful article for issues downloading this data set: 
-https://zapier.com/blog/how-to-download-from-github/
+Consult the following article for help downloading this data set. 
+> https://zapier.com/blog/how-to-download-from-github/
 
 For any other support and troubleshooting please contact GitHub support:
-https://support.github.com
+> https://support.github.com
 
 ## Lisencing and permission 
 
