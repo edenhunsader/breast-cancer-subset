@@ -17,7 +17,6 @@ The subset and original data has been included in the format of a .csv file.
 ## Reproducibility
 
 To see the how this data was produced consult the colab notebook file. 
-## Disclaimers
 
 ## Maintainence 
 
