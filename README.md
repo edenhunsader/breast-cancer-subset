@@ -12,10 +12,11 @@ The potential uses for this data include:
 ## Getting Started
 
 This respository contains a total of four files - the README file, a Colab file(a procedure to create data subset), the original breast cancer data, and the subset that contains only the data's clinical information. 
-The subset and original data has been included in the format of a .csv file
+The subset and original data has been included in the format of a .csv file. 
 
 ## Reproducibility
 
+To see the how this data was produced consult the colab notebook file. 
 ## Disclaimers
 
 ## Maintainence 
