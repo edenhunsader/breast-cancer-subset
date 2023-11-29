@@ -18,11 +18,14 @@ The subset and original data has been included in the format of a .csv file
 
 ## Disclaimers
 
-## Support
-
 ## Maintainence 
 
 This repository is public and can be accessed and edited by the all. However, all changes and contributions must be approved by the creator, Eden Hunsader.
+
+## Support
+
+For support and troubleshooting please contact GitHub support:
+https://support.github.com
 
 ## Lisencing and permission 
 
