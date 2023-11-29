@@ -14,11 +14,15 @@ The potential uses for this data include:
 This respository contains a total of four files - the README file, a Colab file(a procedure to create data subset), the original breast cancer data, and the subset that contains only the data's clinical information. 
 The subset and original data has been included in the format of a .csv file
 
+## Reproducibility
+
 ## Disclaimers
 
 ## Support
 
-## Reproducibility
+## Maintainence 
+
+This repository is public and can be accessed and edited by the all. However, all changes and contributions must be approved by the creator, Eden Hunsader.
 
 ## Lisencing and permission 
 
