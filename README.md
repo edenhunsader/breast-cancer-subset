@@ -14,8 +14,14 @@ The potential uses for this data include:
 This respository contains a total of four files - the README file, a Colab file(a procedure to create data subset), the original breast cancer data, and the subset that contains only the data's clinical information. 
 The subset and original data has been included in the format of a .csv file
 
-*To interact with this repository and use subset data:*
+## Disclaimers
 
-1. Open the included link
-2. Press the "..." in the top right corner
-3. Click "down load"
+## Support
+
+## Reproducibility
+
+## Lisencing and permission 
+
+## Acknowledgements 
+
+This respository was created as a unit project in ENGL105 section 006 taught by Dr. Gotzler at the University of North Carolina Chapel Hill. 
