@@ -1,2 +1,3 @@
-# breast-cancer-subset
-## This subset was created to standardize breast cancer data across varying demographics so that only clinical information remains. The creation of this data subset aims to: 1. Present only clinical information on breast cancer patients 2. Create a uniform demographic to view based on data averages 3. Eliminate demographic information from this dataset entirely
+# Breast Cancer Clinical Data Set Repository
+## This data set on breast cancer patients comes from the surveillance, epidemiology, and end results program of the National Cancer Institute. The data set contains information collected in November of 2017 involving female patients with infiltrating duct and lobular carcinoma breast cancer who had been diagnosed between the years of 2006 and 2010. 
+The purpose is to display a clinical comparison between patients within the same demograpic groups. 
