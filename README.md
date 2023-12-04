@@ -29,8 +29,6 @@ Consult the following article for help downloading this data set.
 For any other support and troubleshooting please contact GitHub support:
 > https://support.github.com
 
-## Lisencing and permission 
-
 ## Acknowledgements 
 
 This respository was created as a unit project in ENGL105 section 006 taught by Dr. Gotzler at the University of North Carolina Chapel Hill. 
